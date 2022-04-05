@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @DeeWhyte
+- 👀 I’m interested in computational linguistics and am planning on learning natural language processing next year.
